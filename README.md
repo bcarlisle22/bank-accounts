@@ -1,5 +1,10 @@
 Bank Accounts <br>
 <hr>
+<br>
+
+```Python``` |  ```Object Oriented Programming```
+
+<br>
 Bank Account is a Python account application that allows users to create and manage accounts 
 <br>
 <br>
@@ -13,7 +18,3 @@ Bank Account is a Python account application that allows users to create and man
 - Object-Oriented: Utilizes object-oriented programming principles for a modular and maintainable codebase.
 <br>
 <br> -->
-
-
-
-```Python``` |  ```Object Oriented Programming```
